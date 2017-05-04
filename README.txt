@@ -1,6 +1,6 @@
 Hello! 
 
-KeyScreenLogger is a tool which records keystrokes and takes screenshots on a user's computer and sends the logged data to Dropbox. 
+KeyScreenLogger is a tool which records keystrokes and takes screenshots on a user's computer and sends the zipped logged data to Dropbox and then deletes all logged data on the user's computer.  
 
 ***Must Enable Terminal to make changes on computer by going to System Preferences > Security and Privacy > Accessibility  and add Terminal to apps allowed to control your computer***
 

@@ -13,7 +13,7 @@ wd2 = str(wd2)
 wd.close()
 os.system('rm wd.txt')
 
-directory = wd2 + directory
+directory = str(wd2) + str(directory)
 
 os.system('python klogger.py')
 os.system('zip -rj ' + directory + '/logdata.zip ' + directory)
