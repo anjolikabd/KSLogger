@@ -7,7 +7,7 @@ KeyScreenLogger is a tool which records keystrokes and takes screenshots on a us
 Usage:
 
 Run
-> python main.py
+> python kslmain.py
 
 Happy logging!
 

